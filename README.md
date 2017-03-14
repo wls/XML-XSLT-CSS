@@ -37,7 +37,10 @@ in the XML file.  All that magic happens later
 in the browser.
 
 The magic line to pay attention to is:
-    <?xml-stylesheet type="text/xsl" href="books.xsl"?>
+
+```
+<?xml-stylesheet type="text/xsl" href="books.xsl"?>
+```
 
 This says once the XML file is loaded, perform
 _transformations_ on it according to rules in the
