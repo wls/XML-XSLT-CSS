@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="books.xsl"?>
+<!-- I made up these tags specifically for this data.
+     Note there is no HTML formatting or order. -->
+<BOOKS>
+	<BOOK>
+		<TITLE>Prototype &amp; Scriptaculous In Action</TITLE>
+		<AUTHOR>Thomas Fuchs</AUTHOR>
+		<ISBN>1-933988-03-7</ISBN>
+	</BOOK>
+	<BOOK>
+		<TITLE>Ajax on Rails</TITLE>
+		<AUTHOR>Scott Raymond</AUTHOR>
+		<ISBN>0-569-52744-6</ISBN>
+	</BOOK>
+	<BOOK>
+		<TITLE>Head Rush Ajax</TITLE>
+		<AUTHOR>Brett McLaughlin</AUTHOR>
+		<ISBN>0-569-10225-9</ISBN>
+		<COMMENT>Very good starter book!</COMMENT>
+	</BOOK>
+	<BOOK>
+		<TITLE>XSLT</TITLE>
+		<AUTHOR>Doug Tidwell</AUTHOR>
+		<ISBN>0-569-00053-7</ISBN>
+	</BOOK>
+	<BOOK>
+		<TITLE>Bulletproof Ajax</TITLE>
+		<AUTHOR>Jeremy Keith</AUTHOR>
+		<ISBN>0-321-47266-7</ISBN>
+		<COMMENT>Not impressed with this book</COMMENT>
+	</BOOK>
+	<BOOK>
+		<TITLE>Professional Ajax</TITLE>
+		<AUTHOR>Nicholas Zakas</AUTHOR>
+		<ISBN>0-470-10949-1</ISBN>
+		<COMMENT>Technically Brain Hurting Deep</COMMENT>
+	</BOOK>
+</BOOKS>

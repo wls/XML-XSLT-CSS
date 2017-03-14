@@ -1,0 +1,4 @@
+body { font-family: verdana;}
+table { border: solid thick black; }
+table th { background-color: green; }
+td { padding: 0.5em;  border: solid thin black; }
